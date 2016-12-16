@@ -6,6 +6,10 @@ Anki is a flashcard application that uses spaced repetition and an algorithm to 
 
 <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4031794/">Research</a> has shown spaced repetition to be a practical learning strategy to learn effectively and optimize long-term retention of factual knowledge.
 
+## What version do I have
+
+Most decks floating around are current to at least errata 4. Any decks downloaded from this site will have a version in the deck description. To access the deck description, click the wheel icon next to the deck and go to Options, go to the Description tag and the textbox will say the version.
+
 ## Download updated deck
 
 
