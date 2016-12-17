@@ -14,6 +14,10 @@ Anki is a flashcard application that uses a spaced repetition algorithm to gener
 
 What version do I have? Most decks floating around are current to at least errata 4. Any decks downloaded from this site will have a version in the deck description. To access the deck description, click the wheel icon next to the deck, click Options, go to the Description tab and the text box will say the version.
 
+### Version 1.5
+
+Planned to be released Dec 21 2016. Will include corrections from recent errata, cards mostly retagged based on First Aid sections and utilizing <a href="https://ankiweb.net/shared/info/1089921461">Hierarchical Tags</a>, and only First Aid pharmacology cards will be retained.
+
 ### Version 1.4
 
 Released on Jan 30 2016. Includes all corrections through Errata 4. <a href="https://mega.nz/#!Ep5X2DoQ!TZWxU06hgzyYAeRC0jRuFbcwZuDk9rfR8uxrI6Ix8Nk">Download Link</a>
