@@ -8,8 +8,6 @@ Anki is a flashcard application that uses a spaced repetition algorithm to gener
 
 ## Download
 
-<a href="https://mega.nz/#!Ep5X2DoQ!TZWxU06hgzyYAeRC0jRuFbcwZuDk9rfR8uxrI6Ix8Nk">Download current version</a>
-
 ## Versions
 
 What version do I have? Most decks floating around are current to at least errata 4. Any decks downloaded from this site will have a version in the deck description. To access the deck description, click the wheel icon next to the deck, click Options, go to the Description tab and the text box will say the version.
