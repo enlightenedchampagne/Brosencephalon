@@ -10,14 +10,13 @@ Anki is a flashcard application that uses a spaced repetition algorithm to gener
 
 <a href="">Download current version</a>
 
-## Version History
+## Versions
 
+What version do I have? Most decks floating around are current to at least errata 4. Any decks downloaded from this site will have a version in the deck description. To access the deck description, click the wheel icon next to the deck, click Options, go to the Description tab and the text box will say the version.
 
+### Version 1.4
 
-
-## What version do I have
-
-Most decks floating around are current to at least errata 4. Any decks downloaded from this site will have a version in the deck description. To access the deck description, click the wheel icon next to the deck, click Options, go to the Description tab and the text box will say the version.
+Released on Jan 30 2016. Includes all corrections through Errata 4.
 
 ## Errata
 * <a href="https://www.reddit.com/r/medicalschool/comments/2hp1xf/brosencephalon_anki_errata_list_in_progress/">Errata 1 (Sep 28 2014)</a>
