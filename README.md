@@ -8,7 +8,7 @@ Anki is a flashcard application that uses a spaced repetition algorithm to gener
 
 ## Download
 
-<a href="">Download current version</a>
+<a href="https://mega.nz/#!Ep5X2DoQ!TZWxU06hgzyYAeRC0jRuFbcwZuDk9rfR8uxrI6Ix8Nk">Download current version</a>
 
 ## Versions
 
@@ -16,7 +16,7 @@ What version do I have? Most decks floating around are current to at least errat
 
 ### Version 1.4
 
-Released on Jan 30 2016. Includes all corrections through Errata 4.
+Released on Jan 30 2016. Includes all corrections through Errata 4. <a href="https://mega.nz/#!Ep5X2DoQ!TZWxU06hgzyYAeRC0jRuFbcwZuDk9rfR8uxrI6Ix8Nk">Download Link</a>
 
 ## Errata
 * <a href="https://www.reddit.com/r/medicalschool/comments/2hp1xf/brosencephalon_anki_errata_list_in_progress/">Errata 1 (Sep 28 2014)</a>
