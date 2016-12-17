@@ -21,7 +21,7 @@ Most decks floating around are current to at least errata 4. Any decks downloade
 
 ## Errata
 * <a href="https://www.reddit.com/r/medicalschool/comments/2hp1xf/brosencephalon_anki_errata_list_in_progress/">Errata 1 (Sep 28 2014)</a>
-* <a href="http://www.reddit.com/r/medicalschool/comments/2m9co2/brosencephalon_anki_errata_thread_pt_2/">Errata 2 (Nov 14 2014)</a>
-* <a href="http://www.reddit.com/r/medicalschool/comments/2smdm2/brosencephalon_anki_errata_thread_pt_3/">Errata 3 (Jan 16 2015)</a>
+* <a href="https://www.reddit.com/r/medicalschool/comments/2m9co2/brosencephalon_anki_errata_thread_pt_2/">Errata 2 (Nov 14 2014)</a>
+* <a href="https://www.reddit.com/r/medicalschool/comments/2smdm2/brosencephalon_anki_errata_thread_pt_3/">Errata 3 (Jan 16 2015)</a>
 * <a href="https://www.reddit.com/r/medicalschool/comments/43e8mm/brosencephalon_deck_updated_thru_errata_4_posted/">Errata 4 (Jan 30 2016)</a>
 * <a href="https://github.com/enlightenedchampagne/Brosencephalon/blob/master/Errata.md">Current Errata</a>
