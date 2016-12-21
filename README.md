@@ -8,13 +8,15 @@ Anki is a flashcard application that uses a spaced repetition algorithm to gener
 
 ## Download
 
+<a href="https://mega.nz/#!lpAHxL6L!y2Ibm_OwqrYS340lfqpewV19HjBseu-YIfHApI1b5XI">Download version 1.5</a>
+
 ## Versions
 
 What version do I have? Most decks floating around are current to at least errata 4. Any decks downloaded from this site will have a version in the deck description. To access the deck description, click the wheel icon next to the deck, click Options, go to the Description tab and the text box will say the version.
 
 ### Version 1.5
 
-Planned to be released Dec 21 2016. Will include corrections from recent errata, cards mostly retagged based on First Aid sections and utilizing <a href="https://ankiweb.net/shared/info/1089921461">Hierarchical Tags</a>, and only First Aid pharmacology cards will be retained.
+Content is similar to Version 1.4. Additions include retagged based on First Aid sections/topics and utilizing <a href="https://ankiweb.net/shared/info/1089921461">Hierarchical Tags</a> and non-First Aid pharmacology cards have been removed. A new dark style is used to help images and text stand out (and it's easier on the eyes). A Note ID field has been added so subsequent updates can be downloaded and merged with your deck without losing your progress. <a href="https://mega.nz/#!lpAHxL6L!y2Ibm_OwqrYS340lfqpewV19HjBseu-YIfHApI1b5XI">Download Link</a>
 
 ### Version 1.4
 
