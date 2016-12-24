@@ -8,7 +8,7 @@ Anki is a flashcard application that uses a spaced repetition algorithm to gener
 
 ## Download
 
-<a href="https://mega.nz/#!lpAHxL6L!y2Ibm_OwqrYS340lfqpewV19HjBseu-YIfHApI1b5XI">Download version 1.5</a>
+<a href="https://mega.nz/#!51B02RjT!Czn7iPEov95o5CyRpHKwFhkTdvGtdUhexlG1a9bNyaw">Download version 1.5</a>
 
 ## Versions
 
@@ -16,7 +16,7 @@ What version do I have? Most decks floating around are current to at least errat
 
 ### Version 1.5
 
-Content is similar to Version 1.4. Additions include retagged based on First Aid sections/topics and utilizing <a href="https://ankiweb.net/shared/info/1089921461">Hierarchical Tags</a> and non-First Aid pharmacology cards have been removed. A new dark style is used to help images and text stand out (and it's easier on the eyes). A Note ID field has been added so subsequent updates can be downloaded and merged with your deck without losing your progress. <a href="https://mega.nz/#!lpAHxL6L!y2Ibm_OwqrYS340lfqpewV19HjBseu-YIfHApI1b5XI">Download Link</a>
+Content is similar to Version 1.4. Additions include retagged based on First Aid sections/topics and utilizing <a href="https://ankiweb.net/shared/info/1089921461">Hierarchical Tags</a>. A new dark style is used to help images and text stand out (and it's easier on the eyes). A Note ID field has been added so subsequent updates can be downloaded and merged with your deck without losing your progress. <a href="https://mega.nz/#!51B02RjT!Czn7iPEov95o5CyRpHKwFhkTdvGtdUhexlG1a9bNyaw">Download Link</a>
 
 ### Version 1.4
 
